@@ -1,5 +1,5 @@
 # Insurance-App
-live link : https://insurance-app-by-tejas.streamlit.app/
+live link : https://insurance-premium-prediction-app-by-tejas.streamlit.app/
 
 ```mermaid
 flowchart TD
